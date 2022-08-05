@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-2222
-=======
-111111
->>>>>>> parent of cd2cf8c... 1111
+This is README.md
