@@ -4,8 +4,8 @@ int main() {
     std::cout << "This is sha" << std::endl;
     std::cout << "hello wolrd" << std::endl;
 
-    std::cout << "hello" << std::endl;
-    std::cout << "whello" << std::endl;
+    std::cout << "dasd" << std::endl;
+    std::cout << "dasda" << std::endl;
 
     return 0;
 }
