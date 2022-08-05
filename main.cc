@@ -7,7 +7,8 @@ int main() {
     std::cout << "dasd" << std::endl;
     std::cout << "dasda" << std::endl;
 
-    
+        std::cout << "dasd" << std::endl;
+    std::cout << "dasda" << std::endl;
     std::cout << "qwe" << std::endl;
     std::cout << "qwe" << std::endl;
     
